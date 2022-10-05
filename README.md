@@ -1,1 +1,2 @@
 # Student-Course-Registration-System
+A course registration system (CRS) created using object oriented programming. The basic objective of taking up this project was to increase knowledge in the language of Java. Also, this project gave an edge to explore Java not only as programming language but as a tool to easily solve problems. Netbeans was used throughout the project. We explored Xampp server, MySQL commands, Apache these increased the scope of our project.
